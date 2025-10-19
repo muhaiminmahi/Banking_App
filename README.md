@@ -4,7 +4,7 @@
 ![iOS](https://img.shields.io/badge/iOS-15.0%2B-blue)
 ![UIKit](https://img.shields.io/badge/UIKit-Yes-brightgreen)
 
-A **professional, fully functional banking app** built with **Swift 5 and UIKit**.  
+A **demo banking app** built with **Swift 5 and UIKit**.  
 Supports **email/password login**, **Face ID login**, **per-user transactions**, and basic **send/deposit functionality**.
 
 ---
